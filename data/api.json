@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "description": "Pastel de Frango",
+      "price": 3.50,
+      "category": "Lanches",
+      "image": ""
+    },
+    {
+      "id": "",
+      "description": "",
+      "price": "",
+      "category": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "description": "",
+      "price": "",
+      "category": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "description": "",
+      "price": "",
+      "category": "",
+      "image": ""
+    }
+  ]
+}
