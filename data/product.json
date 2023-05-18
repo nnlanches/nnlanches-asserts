@@ -168,21 +168,21 @@
   },
   {
     "id": "25",
-    "description": "Coca-Cola em Lata",
+    "description": "Coca-Cola Lata",
     "price": 4.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-lata.png"
   },
   {
     "id": "26",
-    "description": "Guaraná em Lata",
+    "description": "Guaraná Lata",
     "price": 4.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-lata.png"
   },
   {
     "id": "27",
-    "description": "Fanta em Lata",
+    "description": "Fanta Lata",
     "price": 4.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/fanta-lata.png"
@@ -260,7 +260,7 @@
   },
   {
     "id": "38",
-    "description": "Suco de Cajá",
+    "description": "Suco de Cajá 250ML",
     "price": 3.50,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-caja.png"
