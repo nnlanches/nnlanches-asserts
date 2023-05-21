@@ -220,28 +220,28 @@
     "description": "Cerveja Brahma Dublo Malte",
     "price": 5.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
+    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/brahma-duplo-malte-350ml.png"
   },
   {
     "id": "33",
     "description": "Heineken (Long Neck)",
     "price": 9.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
+    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/heineken-long-neck-330ml.png"
   },
   {
     "id": "34",
     "description": "Budweiser (Long Neck)",
     "price": 7.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
+    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/budweiser.png"
   },
   {
     "id": "35",
     "description": "Spaten (Long Neck)",
     "price": 7.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
+    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/spaten.jpeg"
   },
 
   {
