@@ -135,7 +135,7 @@
   {
     "id": "20",
     "description": "Mini Coxinhas",
-    "price": 3.50,
+    "price": 13.00,
     "category": "Frios",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/mini-coxinhas.jpg"
   },
@@ -247,28 +247,28 @@
   {
     "id": "36",
     "description": "Suco de Goiaba 250ML",
-    "price": 3.50,
+    "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-goiaba.png"
   },
   {
     "id": "37",
     "description": "Suco de Maracujá 250ML",
-    "price": 3.50,
+    "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-maracuja.png"
   },
   {
     "id": "38",
     "description": "Suco de Cajá 250ML",
-    "price": 3.50,
+    "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-caja.png"
   },
   {
     "id": "39",
     "description": "Suco de Coco 250ML",
-    "price": 3.50,
+    "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-coco.png"
   }
