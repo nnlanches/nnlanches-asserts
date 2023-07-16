@@ -136,14 +136,14 @@
   {
     "id": "20",
     "description": "Brigadeiro Tradicional",
-    "price": 1.50,
+    "price": 2.00,
     "category": "Lanches",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-tradicional.jpg"
   },
   {
     "id": "21",
     "description": "Brigadeiro Chocolate com Amendoim",
-    "price": 1.50,
+    "price": 2.00,
     "category": "Lanches",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-chocolate-amendoim.jpg"
   },
@@ -151,7 +151,7 @@
   {
     "id": "22",
     "description": "Brigadeiro Negresco",
-    "price": 1.50,
+    "price": 2.00,
     "category": "Lanches",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-negresco.jpg"
   },
@@ -159,7 +159,7 @@
   {
     "id": "23",
     "description": "Brigadeiro Bem Casado",
-    "price": 1.50,
+    "price": 2.00,
     "category": "Lanches",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-bem-casado.jpg"
   },
@@ -167,7 +167,7 @@
   {
     "id": "24",
     "description": "Brigadeiro Beijinho",
-    "price": 1.50,
+    "price": 2.00,
     "category": "Lanches",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-beijinho.jpg"
   },
