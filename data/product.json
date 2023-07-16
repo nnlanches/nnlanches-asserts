@@ -282,30 +282,37 @@
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/spaten.jpeg"
   },
-
   {
     "id": "41",
+    "description": "Corona",
+    "price": 9.00,
+    "category": "Bebidas",
+    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/corona.png"
+  },
+
+  {
+    "id": "42",
     "description": "Suco de Goiaba 250ML",
     "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-goiaba.png"
   },
   {
-    "id": "42",
+    "id": "43",
     "description": "Suco de Maracujá 250ML",
     "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-maracuja.png"
   },
   {
-    "id": "43",
+    "id": "44",
     "description": "Suco de Cajá 250ML",
     "price": 3.00,
     "category": "Bebidas",
     "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-caja.png"
   },
   {
-    "id": "44",
+    "id": "45",
     "description": "Suco de Coco 250ML",
     "price": 3.00,
     "category": "Bebidas",
