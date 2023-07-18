@@ -4,133 +4,133 @@
     "description": "Pastel de Queijo",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/pastel-queijo.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/pastel-queijo.png"
   },
   {
     "id": "2",
     "description": "Pastel Misto",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/pastel-misto.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/pastel-misto.png"
   },
   {
     "id": "3",
     "description": "Pastel de Carne",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/pastel-carne.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/pastel-carne.png"
   },
   {
     "id": "4",
     "description": "Pastel de Frango",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/pastel-frango.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/pastel-frango.png"
   },
   {
     "id": "5",
     "description": "Coxinha de Frango",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/coxinha.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/coxinha.png"
   },
   {
     "id": "6",
     "description": "Travesseiro",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/travesseiro.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/travesseiro.jpg"
   },
   {
     "id": "7",
     "description": "Enroladinho",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/enroladinho.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/enroladinho.png"
   },
   {
     "id": "8",
     "description": "Empada Salgada",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/empada-salgada.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/empada-salgada.jpg"
   },
   {
     "id": "9",
     "description": "Empada Doce",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/empada-doce.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/empada-doce.jpg"
   },
   {
     "id": "10",
     "description": "Misto Quente",
     "price": 3.50,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/misto-quente.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/misto-quente.png"
   },
   {
     "id": "11",
     "description": "Bauru",
     "price": 5.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/bauru.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/bauru.png"
   },
   {
     "id": "12",
     "description": "Americano",
     "price": 6.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/americano.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/americano.png"
   },
   {
     "id": "13",
     "description": "Hamburger",
     "price": 6.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/hamburger.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/hamburger.png"
   },
   {
     "id": "14",
     "description": "X-Burger",
     "price": 7.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/x-burger.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/x-burger.png"
   },
   {
     "id": "15",
     "description": "X-Egg",
     "price": 8.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/x-egg.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/x-egg.png"
   },
   {
     "id": "16",
     "description": "X-Bacon",
     "price": 8.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/x-bacon.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/x-bacon.png"
   },
   {
     "id": "17",
     "description": "Dublo Burger",
     "price": 9.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/duplo-burger.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/duplo-burger.png"
   },
   {
     "id": "18",
     "description": "X-Tudo",
     "price": 10.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/x-tudo.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/x-tudo.png"
   },
   {
     "id": "19",
     "description": "Moda da Casa",
     "price": 13.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/moda-da-casa.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/moda-da-casa.png"
   },
   
   {
@@ -138,14 +138,14 @@
     "description": "Brigadeiro Tradicional",
     "price": 2.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-tradicional.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/brigadeiro-tradicional.jpg"
   },
   {
     "id": "21",
     "description": "Brigadeiro Chocolate com Amendoim",
     "price": 2.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-chocolate-amendoim.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/brigadeiro-chocolate-amendoim.jpg"
   },
   
   {
@@ -153,7 +153,7 @@
     "description": "Brigadeiro Negresco",
     "price": 2.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-negresco.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/brigadeiro-negresco.jpg"
   },
   
   {
@@ -161,7 +161,7 @@
     "description": "Brigadeiro Bem Casado",
     "price": 2.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-bem-casado.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/brigadeiro-bem-casado.jpg"
   },
   
   {
@@ -169,125 +169,125 @@
     "description": "Brigadeiro Beijinho",
     "price": 2.00,
     "category": "Lanches",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/brigadeiro-beijinho.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/brigadeiro-beijinho.jpg"
   },
   {
     "id": "25",
     "description": "Mini Coxinhas",
     "price": 13.00,
     "category": "Frios",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/snacks/mini-coxinhas.jpg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/snacks/mini-coxinhas.jpg"
   },
   {
     "id": "26",
     "description": "Coca-Cola 2L",
     "price": 12.00  ,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-2l-400x400.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-2l-400x400.png"
   },
   {
     "id": "27",
     "description": "Guaraná 2L",
     "price": 10.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-2l-400x400.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/guarana-2l-400x400.png"
   },  {
     "id": "28",
     "description": "Coca-Cola 1L",
     "price": 7.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-1l-400x400.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-1l-400x400.png"
   },
   {
     "id": "29",
     "description": "Guaraná 1L",
     "price": 6.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/guarana-1l-400x400.png"
   },
   {
     "id": "30",
     "description": "Coca-Cola Lata",
     "price": 4.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-lata.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-lata.png"
   },
   {
     "id": "31",
     "description": "Guaraná Lata",
     "price": 4.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/guarana-lata.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/guarana-lata.png"
   },
   {
     "id": "32",
     "description": "Fanta Lata",
     "price": 4.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/fanta-lata.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/fanta-lata.png"
   },
   {
     "id": "33",
     "description": "Coca-Cola 250ML",
     "price": 3.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-250ml.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-250ml.png"
   },
   {
     "id": "34",
     "description": "Coca-Cola KS",
     "price": 3.50,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/coca-cola-ks.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-ks.png"
   },
   {
     "id": "35",
     "description": "Refri 250ML",
     "price": 2.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/refri-250ml.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/refri-250ml.png"
   },
   {
     "id": "36",
     "description": "Cerveja Itaipava Lata",
     "price": 4.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/cerveja-itaipava.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/cerveja-itaipava.png"
   },
   {
     "id": "37",
     "description": "Cerveja Brahma Dublo Malte",
     "price": 5.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/brahma-duplo-malte-350ml.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/brahma-duplo-malte-350ml.png"
   },
   {
     "id": "38",
     "description": "Heineken (Long Neck)",
     "price": 9.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/heineken-long-neck-330ml.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/heineken-long-neck-330ml.png"
   },
   {
     "id": "39",
     "description": "Budweiser (Long Neck)",
     "price": 7.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/budweiser.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/budweiser.png"
   },
   {
     "id": "40",
     "description": "Spaten (Long Neck)",
     "price": 7.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/spaten.jpeg"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/spaten.jpeg"
   },
   {
     "id": "41",
     "description": "Corona (Long Neck)",
     "price": 9.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/corona.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/corona.png"
   },
 
   {
@@ -295,27 +295,27 @@
     "description": "Suco de Goiaba 250ML",
     "price": 3.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-goiaba.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/suco-goiaba.png"
   },
   {
     "id": "43",
     "description": "Suco de Maracujá 250ML",
     "price": 3.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-maracuja.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/suco-maracuja.png"
   },
   {
     "id": "44",
     "description": "Suco de Cajá 250ML",
     "price": 3.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-caja.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/suco-caja.png"
   },
   {
     "id": "45",
     "description": "Suco de Coco 250ML",
     "price": 3.00,
     "category": "Bebidas",
-    "image": "https://github.com/marcosferreira/nnlanches-assets/raw/main/drinks/suco-coco.png"
+    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/suco-coco.png"
   }
 ]
