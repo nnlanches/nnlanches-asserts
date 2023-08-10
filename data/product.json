@@ -234,13 +234,6 @@
     "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-250ml.png"
   },
   {
-    "id": "34",
-    "description": "Coca-Cola KS",
-    "price": 3.50,
-    "category": "Bebidas",
-    "image": "https://github.com/nnlanches/nnlanches-assets/raw/main/drinks/coca-cola-ks.png"
-  },
-  {
     "id": "35",
     "description": "Refri 250ML",
     "price": 2.00,
